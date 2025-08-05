@@ -2,6 +2,10 @@
 
 A simple FastAPI project implementing a basic RESTful CRUD API.
 
+## Credits
+
+This project is based on the course [FastAPI do Zero](https://fastapidozero.dunossauro.com/), by [Dunossauro](https://github.com/dunossauro).
+
 ## How to run the project
 
 ### Requirements
@@ -69,7 +73,3 @@ Insert your API KEY value on **.env** file:
 - [JWT](https://jwt.io/) for handling authorization.
 - [Docker](https://www.docker.com/) for containerization.
 - [Docker Compose](https://docs.docker.com/compose/) for managing containers.
-
-## Credits
-
-This project is based on the course [FastAPI do Zero](https://fastapidozero.dunossauro.com/), by [Dunossauro](https://github.com/dunossauro).
